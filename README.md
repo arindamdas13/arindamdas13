@@ -1,5 +1,4 @@
-### Hi there 👋
-
+<!-- ### Hi there 👋 -->
 <h1 align="center">Hi 👋, I'm Arindam Das</h1>
 <h3 align="center">A Passionate Developer, Programmer and Innovator</h3>
 
