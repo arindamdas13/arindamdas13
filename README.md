@@ -2,15 +2,21 @@
 <h1 align="center">Hi 👋, I'm Arindam Das</h1>
 <h3 align="center">A Passionate Developer, Programmer and Innovator</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arindamdas13&label=Profile%20views&color=129e00&style=plastic" alt="arindamdas13" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arindamdas13&label=visitors&color=129e00&style=plastic" alt="arindamdas13" /> </p>
+
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=arindamdas13.arindamdas13) -->
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=arindamdas13&label=Profile%20views&color=0e75b6&style=flat" alt="arindamdas13" /> </p> -->
 
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"> -->
 
-<img align="right" alt="GIF" src="https://github.com/arindamdas13/arindamdas13/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/arindamdas13/arindamdas13/code.gif?raw=true" width="100" height="70" />
 
 <!-- <p align="left"> <a href="https://twitter.com/arindamdas_13" target="blank"><img src="https://img.shields.io/twitter/follow/arindamdas_13?logo=twitter&style=for-the-badge" alt="arindamdas_13" /></a> </p> -->
+
+I am Arindam Das, an Electrical Engineering student with excellent problem-solving skills and ability to perform well in a team. I am passionate about Internet of Things, Cyber Security and love to do coding.
+
+
 
 - 🔭 I’m currently working on [Self-Driving e-Vehicle Project](https://github.com/arindamdas13/Smart-E-Vehicle) in my final year.
 
