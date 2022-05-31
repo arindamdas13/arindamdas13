@@ -12,11 +12,11 @@
 
 - 🌱 I’m currently learning **C++ and Java**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/arindamdas13/details/projects/](https://www.linkedin.com/in/arindamdas13/details/projects/)
+- 👨‍💻 All of my projects are available at [here](https://www.linkedin.com/in/arindamdas13/details/projects/)
 
 - 📫 How to reach me **arindamdas634@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1AhsA1Fj2wXB2DJFO3mRgnIVJczHOm5cd/view](https://drive.google.com/file/d/1AhsA1Fj2wXB2DJFO3mRgnIVJczHOm5cd/view)
+- 📄 Know about my experiences [click here](https://drive.google.com/file/d/1AhsA1Fj2wXB2DJFO3mRgnIVJczHOm5cd/view)
 
 - ⚡ Fun fact **I think I am funny.**
 
