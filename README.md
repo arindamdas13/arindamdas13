@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/arindamdas_13" target="blank"><img src="https://img.shields.io/twitter/follow/arindamdas_13?logo=twitter&style=for-the-badge" alt="arindamdas_13" /></a> </p>
 
-- 🔭 I’m currently working on [Self-Driving e-Vehicle project in my final year.](https://github.com/arindamdas13/Smart-E-Vehicle)
+- 🔭 I’m currently working on [Self-Driving e-Vehicle Project](https://github.com/arindamdas13/Smart-E-Vehicle) in my final year.
 
 - 🌱 I’m currently learning **C++ and Java**
 
