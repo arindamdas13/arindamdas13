@@ -2,11 +2,13 @@
 <h1 align="center">Hi 👋, I'm Arindam Das</h1>
 <h3 align="center">A Passionate Developer, Programmer and Innovator</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arindamdas13&label=Profile%20views&color=0e75b6&style=flat" alt="arindamdas13" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arindamdas13&label=Profile%20views&color=129e00&style=plastic" alt="arindamdas13" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arindamdas13" alt="arindamdas13" /></a> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=arindamdas13&label=Profile%20views&color=0e75b6&style=flat" alt="arindamdas13" /> </p> -->
 
-<p align="left"> <a href="https://twitter.com/arindamdas_13" target="blank"><img src="https://img.shields.io/twitter/follow/arindamdas_13?logo=twitter&style=for-the-badge" alt="arindamdas_13" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+
+<!-- <p align="left"> <a href="https://twitter.com/arindamdas_13" target="blank"><img src="https://img.shields.io/twitter/follow/arindamdas_13?logo=twitter&style=for-the-badge" alt="arindamdas_13" /></a> </p> -->
 
 - 🔭 I’m currently working on [Self-Driving e-Vehicle Project](https://github.com/arindamdas13/Smart-E-Vehicle) in my final year.
 
@@ -36,6 +38,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arindamdas13&show_icons=true&locale=en&layout=compact" alt="arindamdas13" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arindamdas13&show_icons=true&locale=en" alt="arindamdas13" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arindamdas13" alt="arindamdas13" /></a> </p>
 
 
 <!--
