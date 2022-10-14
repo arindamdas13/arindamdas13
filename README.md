@@ -18,9 +18,9 @@ I am Arindam Das, an Electrical Engineering student with excellent problem-solvi
 
 
 
-- 🔭 I’m currently working on [Self-Driving e-Vehicle Project](https://github.com/arindamdas13/Smart-E-Vehicle) in my final year.
+- 🔭 I recentaly worked on Self-Driving e-Vehicle Project in my final year.
 
-- 🌱 I’m currently learning **C++ and Java**
+- 🌱 I’m currently learning **C++ and Core Java**
 
 - 👨‍💻 All of my projects are available at [here](https://www.linkedin.com/in/arindamdas13/details/projects/)
 
