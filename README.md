@@ -32,13 +32,13 @@ I am Arindam Das, an Electrical Engineering student with excellent problem-solvi
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/arindamdas_13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arindamdas_13" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/arindamdas13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arindamdas13" height="30" width="40" /></a>
-  <a href="https://fb.com/paradise.u.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="paradise.u.1" height="30" width="40" /></a>
-  <a href="https://instagram.com/arindamdas_official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arindamdas_official" height="30" width="40" /></a>
+  <a href="https://twitter.com/arindamdas_13" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" alt="arindamdas_13" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/arindamdas13" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="arindamdas13" height="30" width="40" /></a>
+  <a href="https://fb.com/paradise.u.1" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="paradise.u.1" height="30" width="40" /></a>
+  <a href="https://instagram.com/arindamdas_official" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="arindamdas_official" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/arindamdas13" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="ucp39atoqno9tcjw_muehcuq" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/c/ucp39atoqno9tcjw_muehcuq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucp39atoqno9tcjw_muehcuq" height="30" width="40" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/arindamparadise12345/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="arindamparadise12345/profile" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/c/ucp39atoqno9tcjw_muehcuq" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" alt="ucp39atoqno9tcjw_muehcuq" height="30" width="40" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/arindamparadise12345/profile" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="arindamparadise12345/profile" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools: </h3>
