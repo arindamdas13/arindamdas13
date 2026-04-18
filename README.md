@@ -28,11 +28,6 @@
 ![](https://streak-stats.demolab.com/?user=arindamdas13&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=arindamdas13&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arindamdas13&show_icons=true&locale=en&layout=compact" alt="arindamdas13" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arindamdas13&show_icons=true&locale=en" alt="arindamdas13" /></p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arindamdas13" alt="arindamdas13" /></a> </p>
 ---
 
 ⭐️ *"Quality is never an accident; it is always the result of intelligent effort."*
