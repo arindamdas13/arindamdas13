@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arindamdas13&label=visitors&color=129e00&style=plastic" alt="arindamdas13" /> </p>
 
-💻 Automation Engineer | Web Developer | AI & Agent Enthusiast  
+💻 Automation Engineer | Web Developer | AI & Agent Enthusiast
 
 ---
 <img align="right" alt="Coding" width="200" src="https://c.tenor.com/kyeNs4DnuW0AAAAC/dev_animado.gif">
